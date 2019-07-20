@@ -1,5 +1,5 @@
 # image-classification-keras
-An image classifier on Keras
+An image classifier with Keras on top of tensorflow
 
 I created and animated courses on Computer Vision at 42-School,
 here is the first one, an introduction on how to use Keras for an image-classification on CIFAR-10, 
